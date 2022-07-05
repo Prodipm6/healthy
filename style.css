@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.header-part{
+    width: 40%;
+    margin: 5%;
+    margin-left: 5%;
+}
+.header-part img{
+    width: 100%;
+}
+h1{
+    font-size: 70px;
+    color: rgb(61, 58, 58);
+}
+
+.header-part a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, rgb(201, 51, 25));
+    padding: 20px 50px;
+    font-weight: bold;
+    border-radius: 30px;
+}
